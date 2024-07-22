@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&display=swap');
+/* .edu-au-vic-wa-nt-hand-abc{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 0;
+} */
+
+body{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    background-color: hsl(0, 9%, 91%);
+    margin: 0;
+}
